@@ -1,0 +1,3 @@
+/home/zps/clion_project/tensorrt/build/CMakeFiles/TensorRT_test.dir
+/home/zps/clion_project/tensorrt/build/CMakeFiles/edit_cache.dir
+/home/zps/clion_project/tensorrt/build/CMakeFiles/rebuild_cache.dir
