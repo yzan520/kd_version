@@ -1,0 +1,9 @@
+# ninja log v5
+1	354	1700488169562566438	CMakeFiles/my_test.dir/main.cpp.o	8f6c8103d6323c67
+0	41	1700909229492462664	build.ninja	71153d362a4d1bb
+0	2088	1700488511375004673	src/google_logger/CMakeFiles/google_logger.dir/src/google_logger.cpp.o	ce5603d872695634
+2088	2126	1700488511415004329	src/google_logger/libgoogle_logger.a	db7d2550a8288752
+1	583	1700488771949008986	CMakeFiles/my_test.dir/src/main.cpp.o	bba134c832d8c6a7
+1	3	0	/home/zps/clion_project/tensorrt/cmake-build-debug/CMakeFiles/cmake.verify_globs	ba449148d8a00c73
+1	259	1700487031054653747	CMakeFiles/TensorRT_test.dir/main.cpp.o	c95c13e6b1370721
+583	690	1700488772057008244	my_test	652cdb3a484a01ea

@@ -1,0 +1,5 @@
+Log file created at: 2023/11/20 21:56:01
+Running on machine: zps-Dell-G15-5511
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+(main.cpp:26)[INFO][2023-10-20 21:56:01] Hello TensorRT and start!
